@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f64637fd-b57a-4587-89a9-998c2727f4cd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 114,
+  "height": 115,
+  "platformSettings": {},
+  "subMetas": {
+    "bau-cua-item-3": {
+      "ver": "1.0.4",
+      "uuid": "b6120d66-354d-42b1-8ddb-b4c19f77a9d7",
+      "rawTextureUuid": "f64637fd-b57a-4587-89a9-998c2727f4cd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 112,
+      "height": 113,
+      "rawWidth": 114,
+      "rawHeight": 115,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,20 @@
+
+1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 800
+  rotate: false
+  xy: 2, 2
+  size: 395, 408
+  orig: 395, 408
+  offset: 0, 0
+  index: -1
+Vector Smart Object copy 25
+  rotate: false
+  xy: 399, 128
+  size: 425, 282
+  orig: 425, 282
+  offset: 0, 0
+  index: -1

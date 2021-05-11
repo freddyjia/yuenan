@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b56b76b1-f845-4080-b2dc-6bb25be8c1b9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 380,
+  "height": 99,
+  "platformSettings": {},
+  "subMetas": {
+    "bau-cua-bg-jackpot": {
+      "ver": "1.0.4",
+      "uuid": "ac37b9e1-4a81-4321-b150-fbcc19de0e90",
+      "rawTextureUuid": "b56b76b1-f845-4080-b2dc-6bb25be8c1b9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 378,
+      "height": 97,
+      "rawWidth": 380,
+      "rawHeight": 99,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
