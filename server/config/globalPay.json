@@ -1,0 +1,7 @@
+{
+    "merchantAccount"   : "gm761100000067975"  ,
+    "md5Key"            : "0936D7E86164C2D53C8FF8AD06ED6D09" ,
+    "payUrl"            : "http://zvfdh.yudrsu.com",
+    "cashOutUrl"        : "http://wrysc.yudrsu.com",
+    "notifyIpList"      : ["147.139.178.245","149.129.214.83"]
+}
